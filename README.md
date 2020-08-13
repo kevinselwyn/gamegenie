@@ -1,14 +1,14 @@
-#gamegenie
+# gamegenie
 
 NES Game Genie encoder/decoder
 
-##Installation
+## Installation
 
 ```
 make && sudo make install
 ```
 
-##Usage
+## Usage
 
 ```
 Usage: gamegenie [-e,--encode <address> <data> (<compare>)]
@@ -16,6 +16,6 @@ Usage: gamegenie [-e,--encode <address> <data> (<compare>)]
                  [-v,--verbose]
 ```
 
-##Explanation
+## Explanation
 
 Read more about how Game Genie codes work [here](http://tuxnes.sourceforge.net/gamegenie.html).
